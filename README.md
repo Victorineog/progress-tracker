@@ -1,22 +1,48 @@
-# Scrimba Bootcamp Progress Tracker
-Bootcamp students will contribute to this open source project, where we will build an app to keep track of activity and accomplishments in the Scrimba bootcamp.
+PROJECT:	GTPM BUSINESS DEVELOPMENT TEAM REASSIGNING ACCESS APPLICATION
+SITE:	https://www.gtpensionmanagers.com/
+DOCUMENT:	REQUIREMENTS DOCUMENT
+VERSION:	0.1	
+DATE:	08/08/2024	
+AUTHOR:	VICTORIA OGOCHUKWU IJEOMA
 
-## Summary
-Welcome! This open source project is for Scrimba Bootcamp students to get experience working with other developers, becoming familiar with the git workflow, and learning best practices for collaborative projects. Right now we will not be assigning issues or accepting pull requests from anyone other than our students. To learn more about the Scrimba Bootcamp, please visit https://v1.scrimba.com/bootcamp.
+Summary
+A Web App where:
+Business development team leads can assign RSA accounts to the BD teams. 
+These an app to help the business development team to handle effectively every RSA account that is coming from online registration platform and via fund fusion app.
 
-Aside from the experience that students will gain through their contributions, the purpose of this project is to build an app to keep track of activity and accomplishments in the Scrimba bootcamp. Those who wish to contribute should read [this file](https://github.com/ScrimbaBootcamp/progress-tracker/blob/main/README.md) in its entirety, as well as [the Contributing Guidelines](https://github.com/ScrimbaBootcamp/progress-tracker/blob/main/CONTRIBUTING.md) and our [Code of Conduct](https://github.com/ScrimbaBootcamp/progress-tracker/blob/main/CODE_OF_CONDUCT.md)<!-- << file name here -->. Our Contributing Guidelines will indicate that this project has [Issues](https://github.com/ScrimbaBootcamp/progress-tracker/issues), to which students should request assignment before submitting their Pull Requests. There are also detailed instructions for making contributions by using the Command Line Interface (CLI), VS Code, or GitHub Desktop.
+The functionality where during login, the team leads can login and access all online RSA customers trying to register, and they are allowed to assign the accounts to the BD officers for follow up and also contact the customers if any document submitted on the online platform is not correct.
 
-## Tech and Tools
-We will be building this app with HTML, CSS and JavaScript. As we progress, we will make decisions about package management, data storage, and authentication, likely incorporating Vite and Firebase. Presently there is no project setup that is required before adding to the codebase.
-x
+What is their problem?
+1.	The BD Team currently do not have a way to assign account managers to newly registered accounts.
+2.	Team leads do not have a way to reassign and reshuffle accounts previously assigned because of staff exit or customer/staff relocation or growth of pension fund.
+3.	Account Managers do not have a repo of all their accounts online.
+4.	Account managers do not have a place to track their engagement with Customers.
+5.	Head BDM and Team leads do not currently have a way to track follow-up of customers.
+6.	There is no way to track new accounts registered online or via fund fusion that have not been assigned to an account manager.
+
+Users Breakdown
+1.	BD Officers 
+2.	BD Team Leads
+3.	Head BM 
+4.	Administrator
+   
+
+Products/Artefact 
+SRS Document (User Stories/UAT)
+Stakeholders Mapping
+Requirement elicitation documents
+Evalution/Solutions
+Mock-up/User Journey
+Testing
+Deployment
+
+Tech and Tools
+We will be building this app with HTML, VSCode, CSS and JavaScript. As we progress, we will make decisions about package management, data storage, and authentication, likely incorporating Vite and Firebase. Presently there is no project setup that is required before adding to the codebase.
+
 ## Helpful links:
-- [Contributing Guidlines](https://github.com/ScrimbaBootcamp/progress-tracker/blob/main/CONTRIBUTING.md)
-- [Code of conduct](https://github.com/ScrimbaBootcamp/progress-tracker/blob/main/CODE_OF_CONDUCT.md)
-- [MIT License](https://github.com/ScrimbaBootcamp/progress-tracker/blob/main/LICENSE)
-- [Scrimba Bootcamp Discord (collaborative-work channel)](https://discord.com/channels/684009642984341525/981289757604741180)
-
-<!-- bootcamp-progress-tracker.netlify.app -->
-<!-- Here is some important information that should be included in a README for an open source project:
+- https://online.gtpensionmanagers.com/onlineenrollment/
+- 
+- 
 
 
 - [x] Project title and summary
@@ -27,6 +53,3 @@ x
 - [ ] link to the code of conduct
 - [x] link to the open source license
 - [x] link to community Discord, Slack group, or GitHub Discussions
-
-(We can remove these comments once everything has been added)
--->
